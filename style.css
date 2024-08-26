@@ -1,5 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
+    margin: 0;
 }
 
 .top {
@@ -116,3 +117,14 @@ body {
 }
 
 /*end of content3*/
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+}
+
+/*end of footer*/

@@ -88,3 +88,31 @@ body {
 }
 
 /*end of content2*/
+
+.content3 {
+    background-color: #3882F6;
+    color: white;
+}
+
+.content3-title {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.content3-details {
+    color: rgb(230, 230, 230);
+}
+
+.sign-up-button {
+    background-color: #3882F6;
+    color: white;
+    border: none;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    width: 100px;
+    height: 30px;
+}
+
+/*end of content3*/

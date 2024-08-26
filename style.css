@@ -46,3 +46,45 @@ body {
 .intro-content {
     display: flex;
 }
+
+/*end of top*/
+
+.content1-title {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+    text-align: center;
+}
+
+.content-box-container {
+    display: flex;
+    color: rgb(77, 77, 77);
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+    border: 4px solid #3882F6;
+}
+
+/*end of content1*/
+
+.content2 {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: 300;
+}
+
+.quote-author {
+    color: #1F2937;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/*end of content2*/
